@@ -46,7 +46,7 @@
 
 💬 I'm an expert on **I am a full-stack developer with two years experience in software development.**
 
-📄 Know about my experiences [through my CV](main/README.md)
+📄 Know about my experiences [through my CV](README.md)
 
 🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
 
