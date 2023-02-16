@@ -105,4 +105,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doreenlulu&show_icons=true&locale=en" alt="doreenlulu" /></p>
 
+## Wakatime Review
+[![wakatime](https://wakatime.com/badge/user/b9dd78f7-1a08-4d65-8481-49bbad6a40a0.svg)](https://wakatime.com/@b9dd78f7-1a08-4d65-8481-49bbad6a40a0)
+- 💬 Ask me about JavaScript, HTML, CSS, React, Ruby and Angular
+
 <!-- END -->
