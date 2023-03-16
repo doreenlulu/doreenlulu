@@ -112,5 +112,5 @@
 [![wakatime](https://wakatime.com/badge/user/b9dd78f7-1a08-4d65-8481-49bbad6a40a0.svg)](https://wakatime.com/@b9dd78f7-1a08-4d65-8481-49bbad6a40a0)
 - 💬 Ask me about JavaScript, HTML, CSS, React, Ruby and Angular
 
-![Snake animation](https://github.com/doreenlulu/doreenlulu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/doreenlulu/doreenlulu/blob/snake/github-contribution-grid-snake.svg)
 <!-- END -->
