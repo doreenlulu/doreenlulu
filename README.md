@@ -103,10 +103,14 @@
 
 <h2 align="left">My GitHub Overview</h2>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doreenlulu&show_icons=true&locale=en" alt="doreenlulu" /></p>
+![Doreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=doreenlulu&show_icons=true&theme=tokyonight)
+ <span>&nbsp;</span>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doreenlulu&layout=compact)](https://github.com/doreenlulu/github-readme-stats)
+
 
 ## Wakatime Review
 [![wakatime](https://wakatime.com/badge/user/b9dd78f7-1a08-4d65-8481-49bbad6a40a0.svg)](https://wakatime.com/@b9dd78f7-1a08-4d65-8481-49bbad6a40a0)
 - 💬 Ask me about JavaScript, HTML, CSS, React, Ruby and Angular
 
+![Snake animation](https://github.com/doreenlulu/doreenlulu/blob/output/github-contribution-grid-snake.svg)
 <!-- END -->
