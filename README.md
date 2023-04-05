@@ -17,7 +17,7 @@
 
 <br/>
 
-<p align="left"> <a href="https://github.com/doreenlulu?achievement=quickdraw&tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=doreenlulu" alt="doreenlulu" /></a> </p>
+<p align="left"> <a href="https://github.com/doreenlulu?achievement=pull-shark&tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=doreenlulu" alt="doreenlulu" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 ### Connect With Me 🤝🤝
