@@ -10,7 +10,7 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Doreen Musyoki</h1>
+<h1 align="center">Hi 👋🏾, I'm Doreen Musyoki</h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h4 align="center">A graduate from Daystar University and Moringa, with a Bachelors Degree in Applied Computer Science and a certificate as a Full-Stack Web App Developer respectively.</h4>
