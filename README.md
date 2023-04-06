@@ -84,7 +84,7 @@
 
 | Date     	| Issue 	| Status 	| Live Link 	|
 |----------	|-------	|--------	|------	|
-| 11/01/23 	| 🚚 Created a Cargoe-Shipping Website | Done | [Project 5](http://35.172.230.181:8000) |
+| 11/01/23 	| 🚚 Created a Cargo-Shipping Website | Done | [Project 5](http://35.172.230.181:8000) |
 | 05/01/23 	| 🏠 Created a house hunting Website | Done | [Project 4](http://35.172.230.181:8000) |
 | 01/08/22 	| 🔥 Created a Music Website | Done | [Project 3](https://limce-freedom.netlify.app) |
 | 08/10/22 	| 🎨 Created a Personal Software solution limited Website | Done | [Project 2](https://sunny-parfait-65ea65.netlify.app) |
