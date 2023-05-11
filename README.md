@@ -107,8 +107,8 @@
 <!-- ![Doreen's GitHub stats](https://github-readme-stats.vercel.app/api?username=doreenlulu&show_icons=true&theme=tokyonight) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doreenlulu&layout=compact)](https://github.com/doreenlulu/github-readme-stats)
 
-## Wakatime Review
-[![wakatime](https://wakatime.com/badge/user/b9dd78f7-1a08-4d65-8481-49bbad6a40a0.svg)](https://wakatime.com/@b9dd78f7-1a08-4d65-8481-49bbad6a40a0)
+<!-- ## Wakatime Review
+[![wakatime](https://wakatime.com/badge/user/b9dd78f7-1a08-4d65-8481-49bbad6a40a0.svg)](https://wakatime.com/@b9dd78f7-1a08-4d65-8481-49bbad6a40a0) -->
 - 💬 Ask me about JavaScript, HTML, CSS, React, Ruby and Angular
 
 ![Snake animation](https://github.com/doreenlulu/doreenlulu/blob/snake/github-contribution-grid-snake.svg)
